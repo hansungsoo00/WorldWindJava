@@ -1,4 +1,4 @@
-# WorldWindJava
+# WorldWindJavaX
 
 1 이클립스에서 상단 파일 에 파일시스템으로부터 프로젝트 열기 
 
